@@ -19,5 +19,19 @@ exports[`test renders a snapshot 1`] = `
     </code>
      and save to reload.
   </p>
+  <span>
+    Value: 
+    0
+    <button
+      className="decrement"
+      onClick={[Function]}>
+      −
+    </button>
+    <button
+      className="increment"
+      onClick={[Function]}>
+      +
+    </button>
+  </span>
 </div>
 `;
